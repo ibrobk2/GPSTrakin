@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trackin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Title</string>
+    <string name="tracking">Tracking</string>
+    <string name="developed_by_mustapha_ismai_il_haruna">Developed By Mustapha Ismai\'il Haruna</string>
+    <string name="track">Track</string>
+    <string name="in">in.</string>
+</resources>
